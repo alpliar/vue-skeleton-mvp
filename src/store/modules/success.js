@@ -32,7 +32,7 @@ const state = {
   showSuccessMessage: false,
   successMessage: null,
   successMessageParams: [],
-  successMessageTimeout: 0
+  successMessageTimeout: -1
 }
 
 export default {
